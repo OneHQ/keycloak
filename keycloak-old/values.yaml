@@ -56,7 +56,7 @@ keycloakUsers:
         credentials:
         - type: password
           value: "changeme" 
-        email: "admin@advatys.com"
+        email: "admin@onehq.com"
         firstName: "FirstName"
         lastName:  "LastName" 
         username: "admin" 
@@ -78,7 +78,7 @@ keycloakUsers:
         credentials:
         - type: password
           value: "changemenow"
-        email: "secondadmin@advatys.com"
+        email: "secondadmin@onehq.com"
         firstName: "FirstName"
         lastName:  "LastName"
         username: "secondadmin"
